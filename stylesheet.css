@@ -1415,7 +1415,8 @@ audio {
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
-        background-color: #466baf;
+        border-radius: 10px;
+        background-color:blue;
 }
     .btn-primary:hover,
     .btn-primary:focus,
